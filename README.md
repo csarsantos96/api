@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ForumHub
 
 ForumHub is a backend API project built with Java 17, Spring Boot 3, JWT Authentication, and MySQL. The system allows users to authenticate, create discussion topics, and interact with replies in a forum-style application.
