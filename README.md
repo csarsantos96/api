@@ -92,6 +92,12 @@ Authorization: Bearer your.jwt.token.here
 | POST   | /respostas                  | Add a reply to a topic    | Yes            |
 | GET    | /respostas/topico/{id}     | List replies by topic     | Yes            |
 
+## Diagrama do Banco de Dados
+
+![Diagrama do Banco de Dados](docs/diagrama-banco.png)
+
+
+
 ## Author
 
 Developed by César Santos  
